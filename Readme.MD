@@ -2,6 +2,7 @@
 
 ## Tópicos abordados
 - Requisições assíncronas para uma API externa utilizando HTTP;
+- Deserializacao dos dados p/ uma classe;
 
 
 
