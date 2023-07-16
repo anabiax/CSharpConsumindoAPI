@@ -1,0 +1,15 @@
+/home/anasantos/ConsumindoAPICSharp/bin/Debug/net7.0/ConsumindoAPICSharp
+/home/anasantos/ConsumindoAPICSharp/bin/Debug/net7.0/ConsumindoAPICSharp.deps.json
+/home/anasantos/ConsumindoAPICSharp/bin/Debug/net7.0/ConsumindoAPICSharp.runtimeconfig.json
+/home/anasantos/ConsumindoAPICSharp/bin/Debug/net7.0/ConsumindoAPICSharp.dll
+/home/anasantos/ConsumindoAPICSharp/bin/Debug/net7.0/ConsumindoAPICSharp.pdb
+/home/anasantos/ConsumindoAPICSharp/obj/Debug/net7.0/ConsumindoAPICSharp.csproj.AssemblyReference.cache
+/home/anasantos/ConsumindoAPICSharp/obj/Debug/net7.0/ConsumindoAPICSharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/anasantos/ConsumindoAPICSharp/obj/Debug/net7.0/ConsumindoAPICSharp.AssemblyInfoInputs.cache
+/home/anasantos/ConsumindoAPICSharp/obj/Debug/net7.0/ConsumindoAPICSharp.AssemblyInfo.cs
+/home/anasantos/ConsumindoAPICSharp/obj/Debug/net7.0/ConsumindoAPICSharp.csproj.CoreCompileInputs.cache
+/home/anasantos/ConsumindoAPICSharp/obj/Debug/net7.0/ConsumindoAPICSharp.dll
+/home/anasantos/ConsumindoAPICSharp/obj/Debug/net7.0/refint/ConsumindoAPICSharp.dll
+/home/anasantos/ConsumindoAPICSharp/obj/Debug/net7.0/ConsumindoAPICSharp.pdb
+/home/anasantos/ConsumindoAPICSharp/obj/Debug/net7.0/ConsumindoAPICSharp.genruntimeconfig.cache
+/home/anasantos/ConsumindoAPICSharp/obj/Debug/net7.0/ref/ConsumindoAPICSharp.dll
