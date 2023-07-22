@@ -13,3 +13,9 @@ O uso do LINQ no C# oferece uma sintaxe elegante e eficaz para consultas(banco o
 <br>
 
 Link da interface p/ integração: https://screen-sound.vercel.app/
+
+
+#### Desafio 1
+
+
+#### Desafio 2
