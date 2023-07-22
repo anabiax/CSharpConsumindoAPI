@@ -9,12 +9,13 @@ using (HttpClient client = new HttpClient())  // estou gerenciando um recurso ap
         var resposta = await client.GetStringAsync($"https://guilhermeonrails.github.io/api-csharp-songs/songs.json");
         var musicas = JsonSerializer.Deserialize<List<Musica>>(resposta)!; // ao parsear a classe nunca poderá ser nula! A string deve ter conteúdo
         //System.Console.WriteLine(musicas.Count);
-        musicas[2].ExibirDetalhesDaMusica();
+        //musicas[2].ExibirDetalhesDaMusica();
 
         //LinqFilter.FiltrarTodosOsGenerosMusicais(musicas);
         //LinqFilter.ExibirListaDeArtistasOrdenados(musicas);
         //LinqFilter.FiltrarArtistaPorGeneroMusical(musicas, "blues");
         //LinqFilter.FiltrarAsMusicasDeUmArtista(musicas, "ZAYN");
+        LinqFilter.ExibirListaDeMusicasCSharp(musicas);
 
         /*
         var musicasPreferidas = new MusicasPreferidas("Ana"); 
@@ -30,7 +31,6 @@ using (HttpClient client = new HttpClient())  // estou gerenciando um recurso ap
         musicasPreferidas.GerarDocumentoTXTComAsMusicasFavoritas();
         */
 
-        
     }
     catch (Exception ex)
     {

@@ -52,5 +52,17 @@ namespace ScreenSound_04.Filtros
                 System.Console.WriteLine($"- {musica.Nome}");
             }
         }
+
+        public static void ExibirListaDeMusicasCSharp(List<Musica> musicas)
+        {  
+            var tonalidade = "C#";                                              // p/ comparar strings tem que usar o equals
+            var musicasAgrupadas = musicas.Where(musica => musica.Tonalidades.Equals(tonalidade)).Select(musica => musica.Nome).ToList();
+            System.Console.WriteLine($"Músicas cuja tonalidade é C#");
+
+            foreach(var musica in musicasAgrupadas)
+            {
+                System.Console.WriteLine(musica);
+            }
+        }
     }
 }

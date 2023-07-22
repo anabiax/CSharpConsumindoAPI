@@ -16,6 +16,7 @@ Link da interface p/ integração: https://screen-sound.vercel.app/
 
 
 #### Desafio 1
-
+Buscar o valor numérico da propriedade key e convertê-lo à uma nota musical.
 
 #### Desafio 2
+Exibir todas as músicas que estejam na tonalidade de C#
